@@ -1,0 +1,8 @@
+# Install PyTorch FIRST using the selector at pytorch.org (matches your GPU/CUDA),
+# then: pip install -r requirements.txt
+numpy
+pytest
+matplotlib
+tqdm
+tiktoken
+jupyter

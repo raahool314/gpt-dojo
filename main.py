@@ -1,5 +1,5 @@
 def main():
-    print("Hello from understanding-llms!")
+    print("Hello from gpt-dojo!")
 
 
 if __name__ == "__main__":

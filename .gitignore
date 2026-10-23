@@ -10,3 +10,6 @@ checkpoints/
 
 # Local-only config (may contain API keys)
 .claude/settings.local.json
+
+# Examiner's private answer keys (never push)
+grading/hidden/

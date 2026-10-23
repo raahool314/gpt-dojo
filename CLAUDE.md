@@ -1,4 +1,4 @@
-# Project rules: understanding-llms
+# Project rules: gpt-dojo
 
 This is a LEARNING project. The goal is the learner's mastery, not finished code.
 Every model working in this folder follows these rules regardless of role.

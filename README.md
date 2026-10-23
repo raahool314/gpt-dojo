@@ -1,7 +1,8 @@
-# understanding-llms
+# gpt-dojo
 
-Build a GPT-style language model from scratch in PyTorch, learning every concept
-through mastery-based tutoring (Bloom's 2 sigma: 1:1 tutoring + mastery gates).
+Train a GPT-style language model from scratch in PyTorch, learning every
+concept through mastery-based tutoring (Bloom's 2 sigma: 1:1 tutoring +
+mastery gates).
 
 ## The loop (repeat per module)
 
